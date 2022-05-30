@@ -1,0 +1,8 @@
+name: RandomMinigame
+version: '${project.version}'
+main: com.moon.game.PVPgame
+api-version: 1.16
+authors: [ Moon ]
+description: Random Minigame
+commands:
+  arena:
